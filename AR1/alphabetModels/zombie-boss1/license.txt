@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie-Boss1
+* source:	https://sketchfab.com/3d-models/zombie-boss1-11febec406e248cbbafef450304b683a
+* author:	vera_grande (https://sketchfab.com/vera_grande)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie-Boss1" (https://sketchfab.com/3d-models/zombie-boss1-11febec406e248cbbafef450304b683a) by vera_grande (https://sketchfab.com/vera_grande) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

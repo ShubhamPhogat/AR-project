@@ -1,0 +1,11 @@
+Model Information:
+* title:	Corn necklace
+* source:	https://sketchfab.com/3d-models/corn-necklace-bf49415565174daeb0fe9d2bf4e30b24
+* author:	leoni (https://sketchfab.com/leoni)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Corn necklace" (https://sketchfab.com/3d-models/corn-necklace-bf49415565174daeb0fe9d2bf4e30b24) by leoni (https://sketchfab.com/leoni) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
